@@ -7,12 +7,11 @@
 
 	<dependencies>
 
-		<dependency>
+		<dependency> 
 			<groupId>io.cucumber</groupId>
 			<artifactId>cucumber-java</artifactId>
 			<version>7.2.3</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-cucumber7-jvm -->
 		<dependency>
 			<groupId>io.qameta.allure</groupId>
 			<artifactId>allure-cucumber7-jvm</artifactId>
